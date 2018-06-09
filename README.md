@@ -2,7 +2,6 @@
 
 
 >In this repository you will find the **IRIS Dataset** with dimensions150 X 4 .
-```
 After performing PCA on we will get four **_Principal Componenets_**.
 Then the resultant bargraph of the Principal Componenets is:
 ![alt text](D:\GitHub Repositories\PCA_KNNC_ON_IRIS\VARIANCE_RATIO_OF_IRIS.png "Description goes here")
@@ -16,4 +15,3 @@ reduction.
 ![alt text](D:\GitHub Repositories\PCA_KNNC_ON_IRIS\Accuracy_before_pca,jpg "Description goes here")
 -The classification accuracy before **PCA** is shown below:
 ![alt text](D:\GitHub Repositories\PCA_KNNC_ON_IRIS\Accuracy_after_pca,jpg "Description goes here")
-```
