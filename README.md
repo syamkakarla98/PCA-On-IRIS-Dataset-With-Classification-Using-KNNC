@@ -16,4 +16,4 @@ reduction.
 ![alt text](D:\GitHub Repositories\PCA_KNNC_ON_IRIS\Accuracy_before_pca,jpg "Description goes here")
 -The classification accuracy before **PCA** is shown below:
 ![alt text](D:\GitHub Repositories\PCA_KNNC_ON_IRIS\Accuracy_after_pca,jpg "Description goes here")
-
+```
