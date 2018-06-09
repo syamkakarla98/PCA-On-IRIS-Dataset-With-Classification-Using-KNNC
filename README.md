@@ -4,7 +4,7 @@
 >In this repository you will find the **IRIS Dataset** with dimensions150 X 4 .
 After performing PCA on we will get four **_Principal Componenets_**.
 Then the resultant bargraph of the Principal Componenets is:
-![alt text](D:\GitHub Repositories\PCA_KNNC_ON_IRIS\VARIANCE_RATIO_OF_IRIS.png "Description goes here")
+![variance_ratio_of_iris](https://user-images.githubusercontent.com/36328597/41186940-a25e37e6-6bbd-11e8-957d-a2e505518d0a.png)
 Since the first two principal components have high variance we will select them for dimensionality 
 reduction.
 -After dimensionality reduction, the dataset will be 150 X 2.
